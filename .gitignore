@@ -39,3 +39,8 @@ out/
 ### OS ###
 .DS_Store
 Thumbs.db
+
+### Test files ###
+test-data/
+*.http
+sample_data.sql
