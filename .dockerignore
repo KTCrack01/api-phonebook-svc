@@ -28,3 +28,13 @@ Thumbs.db
 README.md
 Dockerfile
 .dockerignore
+
+# 환경변수 파일들 (보안상 이미지에 포함하면 안됨)
+.env
+.env.*
+env.example
+
+# 테스트 파일들
+test-data/
+*.http
+sample_data.sql
