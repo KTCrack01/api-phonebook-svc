@@ -66,3 +66,4 @@ docker run --rm -p 8080:8080 \
 
 ## 참고
 - 서비스 분리 배경: [ADR-0015](../msa-project-hub/docs/adr/ADR-0015-phonebook-service-separation.md) (Phonebook Service Separation)
+- API 버저닝: [ADR-003](../msa-project-hub/docs/adr/ADR-003-api-versioning-and-base-path.md)
